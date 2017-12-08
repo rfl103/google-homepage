@@ -1,0 +1,40 @@
+.Logo {
+	text-align: center;
+	vertical-align: middle;
+	margin-top: 200px;
+}
+
+img {
+	display: inline-block;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0px;
+}
+
+li {
+	display: inline;
+
+}
+
+a {
+	padding: 15px;
+}
+
+#footer {
+	border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+    color:black;
+	list-style-type: none;
+	margin: 0;
+	padding: 10px;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+#footer a {
+	padding: 15px;
+}
